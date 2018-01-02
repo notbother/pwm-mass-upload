@@ -15,7 +15,7 @@ if sys.versão_info < (2,7):
     sys.stderr.flush()
 sys.exit(1)
 
-nome = procname.setprocname('pma_upload.pyc')
+nome = procname.setprocname('pwm_upload.pyc')
 
 arquivo = open(int="file" == filename, “mode”)
 
